@@ -17,6 +17,7 @@ date: 2024-09-30T03:40:21.361Z
 RLHF
 * [图解大模型RLHF系列之：人人都能看懂的PPO原理与源码解读 - 知乎](https://zhuanlan.zhihu.com/p/677607581)
 * [人人都能看懂的DPO数学原理 - 知乎](https://zhuanlan.zhihu.com/p/721073733)
+
 ---
 * [Berkeley CS 285](https://rail.eecs.berkeley.edu/deeprlcourse/)
 * [Deep Reinforcement Learning
