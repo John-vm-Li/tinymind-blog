@@ -11,8 +11,9 @@ date: 2024-09-30T03:40:21.361Z
 
 
 
+
 * [Mastering Reinforcement Learning](https://gibberblot.github.io/rl-notes/index.html)
-* [李宏毅_DRL Lecture 2: Proximal Policy Optimization (PPO) - HackMD](https://hackmd.io/@shaoeChen/Bywb8YLKS/https%3A%2F%2Fhackmd.io%2F%40shaoeChen%2FSyez2AmFr)
+* [蘑菇书EasyRL](https://datawhalechina.github.io/easy-rl/#/)
 * [Reinforcement Learning Cheat Sheet](https://github.com/alxthm/rl-cheatsheet/blob/main/main.pdf)
 * [Intro to Reinforcement Learning: Monte Carlo to Policy Gradient](https://medium.com/@hsinhungw/intro-to-reinforcement-learning-monte-carlo-to-policy-gradient-1c7ede4eed6e)
 ---
